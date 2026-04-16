@@ -62,8 +62,4 @@ https://www.kaggle.com/datasets/adityamaurya123321/disney-picturesuncleaned
 ![Country vs Profit](pivot_country_profit.jpeg)
 
 
-- <img width="1332" height="653" alt="image" src="https://github.com/user-attachments/assets/3df73760-c92f-427b-93c2-d10d511d86fe" />
-
-   <img width="1359" height="602" alt="image" src="https://github.com/user-attachments/assets/0332be43-47d3-4398-8f9c-46ad1ee1a0ba" />
-
 
