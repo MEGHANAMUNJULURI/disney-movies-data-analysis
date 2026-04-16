@@ -1,0 +1,526 @@
+Sr No,cleaned_movie name,Directed by,Running Time ,Country,Language,,,Final release ,Budget,,Box office
+1,Snow White and the Seven Dwarfs,"David Hand, Perce Pearce, Larry Morey, Wilfred Jackson, Ben Sharpsteen",83,United States,English,,,,1500000,,418000000
+2,Pinocchio,"Ben Sharpsteen, Hamilton Luske, Norman Ferguson, Jack Kinney, Wilfred Jackson, T. Hee",88,United States,English,,,1940,2600000,,
+3,Fantasia,"James Algar, Ben Sharpsteen, David D. Hand, Hamilton Luske, Ford Beebe, T. Hee, Norman Ferguson, Wilfred Jackson",126,United States,English,,,1940,2280000,,
+4,The Reluctant Dragon,"Alfred Werker, Hamilton Luske, Jack Cutting, Ub Iwerks, Jack Kinney",74,United States,English,,,1941,6000002,,960000
+5,Dumbo,"Ben Sharpsteen, Norman Ferguson, Wilfred Jackson, Jack Kinney",64,United States,English,,,1941,9500002,,
+6,Bambi,"David Hand, James Algar",70,United States,English,,,1942,8580002,,267400000
+7,Saludos Amigos,"Norman Ferguson, Wilfred Jackson, Jack Kinney, Hamilton Luske",42,United States,,,,1942,,,1000000
+8,Victory Through Air Power,"James Algar, Clyde Geronimi, Jack Kinney, H.C. Potter",65,United States,English,,,1943,788000,,799000
+9,The Three Caballeros,"Norman Ferguson, Clyde Geronimi, Jack Kinney, Harold Young",71,United States,,,,1944,,,3355000
+10,Make Mine Music,"Jack Kinney, Clyde Geronimi, Hamilton Luske, Joshua Meador",75,United States,English,,,1946,1350000,,3275000
+11,Song of the South,Wilfred Jackson,94,United States,English,,,1946,2125000,,65000000
+12,Fun and Fancy Free,"Jack Kinney, Hamilton Luske, William Morgan",73,United States,English,,,1947,,,3165000
+13,Melody Time,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney",75,United States,English,,,1948,1500000,,2560000
+14,So Dear to My Heart,"Harold D. Schuster, Hamilton Luske",82,United States,English,,,,1500000,,3700000
+15,The Adventures of Ichabod and Mr. Toad,"Ben Sharpsteen, Jack Kinney, Clyde Geronimi, James Algar",68,United States,English,,,1949,,,1625000
+16,Cinderella,"Wilfred Jackson, Hamilton Luske, Clyde Geronimi",74,United States,English,,,1950,2200000,,182000000
+17,Treasure Island,Byron Haskin,96,,English,,,1950,1800000,,4100000
+18,Alice in Wonderland,"Ben Sharpsteen, Clyde Geronimi, Wilfred Jackson, Hamilton Luske",75,United States,English,,,1951,3000000,,
+19,The Story of Robin Hood,Ken Annakin,84,,English,,,1952,,,2100000
+20,Peter Pan,"Hamilton Luske, Clyde Geronimi, Wilfred Jackson",77,United States,English,,,1953,4000000,,87400000
+21,The Sword and the Rose,Ken Annakin,92,,English,,,1953,2000000,,1000000
+22,The Living Desert,James Algar,69,United States,English,,,1953,300000,,2600000
+23,Rob Roy: The Highland Rogue,Harold French,81,,English,,,1953,1800000,,
+24,The Vanishing Prairie,James Algar,60,United States,English,,,1954,,,1750000
+25,"20,000 Leagues Under the Sea",Richard Fleischer,127,United States,English,,,1954,5000000,,28200000
+26,Davy Crockett: King of the Wild Frontier,Norman Foster,93,United States,English,,,1955,,,2150000
+27,Lady and the Tramp,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",76,United States,English,,,1955,4000000,,187000000
+28,The African Lion,James Algar,75,United States,English,,,1955,,,2100000
+29,The Littlest Outlaw,Roberto Gavaldón,73,,,,,1955,,,1600000
+30,The Great Locomotive Chase,Francis D. Lyon,85,United States,English,,,,,,1700000
+31,Davy Crockett and the River Pirates,Norman Foster,81,United States,English,,,1956,,,
+32,Secrets of Life,James Algar,70,United States,English,,,1956,,,
+33,Westward Ho the Wagons!,William Beaudine,90,United States,English,,,1956,,,2750000
+34,Johnny Tremain,Robert Stevenson,80,United States,English,,,1957,7000001,,
+35,Perri,"N. Paul Kenworthy, Ralph Wright",75,United States,English,,,1957,,,1750000
+36,Old Yeller,Robert Stevenson,84,United States,English,,,1957,,,6250000
+37,The Light in the Forest,Herschel Daugherty,83,United States,English,,,1958,,,2000000
+38,White Wilderness,James Algar,72,,English,,,1958,,,1800000
+39,Tonka,Lewis R. Foster,97,United States,English,,,1958,,,2500000
+40,Sleeping Beauty,"Clyde Geronimi, Wolfgang Reitherman, Eric Larson, Les Clark",75,United States,English,,,1959,6000000,,51600000
+41,The Shaggy Dog,Charles Barton,104,United States,English,,,1959,,,12300000
+42,Darby O'Gill and the Little People,Robert Stevenson,93,United States,English,,,1959,,,
+43,Third Man on the Mountain,Ken Annakin,105,United States,English,,,1959,2000000,,1700000
+44,Toby Tyler or 10 Weeks with a Circus,Charles Barton,95,United States,English,,,Sara,,,3100000
+45,Kidnapped,Robert Stevenson,97,United States,,,,1960,,,
+46,Pollyanna,David Swift,134,United States,English,,,1960,2500000,,3750000
+47,Jungle Cat,James Algar,69,United States,English,,,,,,2300000
+48,Ten Who Dared,William Beaudine,92,United States,English,,,1960,,,
+49,Swiss Family Robinson,Ken Annakin,126,United States,English,,,1960,4000000,,40000000
+50,One Hundred and One Dalmatians,"Wolfgang Reitherman, Hamilton Luske, Clyde Geronimi",79,United States,English,,,1961,3600000,,303000000
+51,The Absent-Minded Professor,Robert Stevenson,97,United States,English,,,,,,25300000
+52,The Parent Trap,David Swift,128,United States,English,,,1961,,,25100000
+53,Nikki: Wild Dog of the North,"Jack Couffer, Don Haldane",73,,English,,,1961,,,2100000
+54,Greyfriars Bobby,Don Chaffey,91,United States,English,,,1961,,,1400000
+55,Babes in Toyland,Jack Donohue,105,United States,English,,,1961,3000000,,4600000
+56,Moon Pilot,James Neilson,98,United States,English,,,1962,,,3500000
+57,Bon Voyage!,James Neilson,130,United States,English,,,1962,3000000,,5000000
+58,Big Red,Norman Tokar,89,,English,,,1962,,,
+59,Almost Angels,Steve Previn,93,United States,English,,,,,,
+60,The Legend of Lobo,"James Algar, Jack Couffer",67,United States,English,,,1962,,,
+61,In Search of the Castaways,Robert Stevenson,98,United States,English,,,1962,,,217455001
+62,Son of Flubber,Robert Stevenson,100,United States,English,,,1963,,,22100000
+63,Miracle of the White Stallions,Arthur Hiller,118,United States,English,,,1963,,,2550000
+64,Savage Sam,Norman Tokar,103,United States,English,,,1963,,,3000000
+65,Summer Magic,James Neilson,110,United States,English,,,1963,,,4350000
+66,The Incredible Journey,Fletcher Markle,80,,English,,,1963,,,4200000
+67,The Sword in the Stone,Wolfgang Reitherman,79,United States,English,,,1963,3000000,,22200000
+68,A Tiger Walks,Norman Tokar,91,United States,English,,,1964,,,
+69,The Missadventures of Merlin Jones,Robert Stevenson,91,United States,English,,,1964,,,4000000
+70,The Three Lives of Thomasina,Don Chaffey,97,,,,,,,,2250000
+71,The Moon-Spinners,James Neilson,118,,English,,,1964,,,
+72,Mary Poppins,Robert Stevenson,139,United States,English,,,1964,,,
+73,Those Calloways,Norman Tokar,131,United States,English,,,,,,3500000
+74,Emil and the Detectives,Peter Tewksbury,92,United States,English,,,1964,,,12750001
+75,The Monkey's Uncle,Robert Stevenson,87,United States,English,,,1965,,,4000000
+76,That Darn Cat!,Robert Stevenson,116,United States,English,,,1965,,,280682221
+77,The Ugly Dachshund,Norman Tokar,93,United States,English,,,1966,,,6200000
+78,"Lt. Robin Crusoe, U.S.N.",Byron Paul,114,United States,English,,,1966,,,225656342
+79,The Fighting Prince of Donegal,Michael OHerlihy,110,,English,,,,,,
+80,"Follow Me, Boys!",Norman Tokar,131,United States,English,,,1966,,,162071161
+81,"Monkeys, Go Home!",Andrew V. McLaglen,101,United States,English,,,1967,,,3000000
+82,The Adventures of Bullwhip Griffin,James Neilson,110,United States,English,,,1967,,,1900000
+83,The Gnome-Mobile,Robert Stevenson,84,United States,English,,,1967,,,4000000
+84,The Jungle Book,Wolfgang Reitherman,78,United States,English,,,1967,4000000,,378000000
+85,"Charlie, the Lonesome Cougar",Winston Hibler,75,United States,English,,,1967,,,
+86,The Happiest Millionaire,Norman Tokar,106,United States,English,,,1968,,,215400501
+87,Blackbeard's Ghost,Robert Stevenson,110,United States,English,,,,,,2250000
+88,"The One and Only, Genuine, Original Family Band",Michael OHerlihy,99,United States,English,,,1968,,,4150000
+89,Never a Dull Moment,Jerry Paris,113,United States,English,,,1968,,,3300000
+90,The Horse in the Gray Flannel Suit,Norman Tokar,108,United States,English,,,1968,5000000,,51200000
+91,The Love Bug,Robert Stevenson,102,United States,English,,,1969,,,1300000
+92,Smith!,Michael OHerlihy,85,United States,English,,,1969,,,
+93,Rascal,Norman Tokar,91,United States,English,,,1969,,,5500000
+94,The Computer Wore Tennis Shoes,Robert Butler,93,,English,,,1970,,,
+95,King of the Grizzlies,Ron Kelly,100,United States,English,,,1970,,,186074921
+96,The Boatniks,Norman Tokar,100,United States,English,,,1970,,,4000000
+97,The Wild Country,Robert Totten,79,United States,English,,,1970,4000000,,191000000
+98,The Aristocats,Wolfgang Reitherman,96,United States,English,,,1971,,,
+99,The Barefoot Executive,Robert Butler,113,United States,English,,,,,,
+100,Scandalous John,Robert Butler,89,United States,English,,,1971,,,5100000
+101,The Million Dollar Duck,Vincent McEveety,118,United States,English,,,1971,,,
+102,Bedknobs and Broomsticks,Robert Stevenson,92,United States,English,,,1972,,,
+103,The Biscuit Eater,Vincent McEveety,88,United States,English,,,1972,,,4610000
+104,"Now You See Him, Now You Don't",Robert Butler,92,United States,English,,,1972,,,
+105,Napoleon and Samantha,Bernard McEveety,87,United States,English,,,1972,,,
+106,"Run, Cougar, Run",Jerome Courtland,93,United States,English,,,1972,,,6100000
+107,Snowball Express,Norman Tokar,93,United States,English,,,,,,225833702
+108,The World's Greatest Athlete,Robert Scheerer,93,United States,English,,,1973,,,
+109,Charley and the Angel,Vincent McEveety,90,United States,English,,,1973,,,2000000
+110,One Little Indian,Bernard McEveety,83,United States,English,,,1973,5000000,,33000000
+111,Robin Hood,Wolfgang Reitherman,96,United States,English,,,1973,,,7000000
+112,Superdad,Vincent McEveety,88,United States,English,,,1974,,,38200000
+113,Herbie Rides Again,Robert Stevenson,89,United States,English,,,1974,,,4000000
+114,The Bears and I,Bernard McEveety,91,United States,English,,,1974,,,
+115,The Castaway Cowboy,Vincent McEveety,93,United States,,,,,8000000,,10000000
+116,The Island at the Top of the World,Robert Stevenson,92,United States,English,,,1975,,,6600000
+117,The Strongest Man in the World,Vincent McEveety,97,United States,English,,,1975,,,200000001
+118,Escape to Witch Mountain,John Hough,100,United States,English,,,1975,,,368530002
+119,The Apple Dumpling Gang,Norman Tokar,100,,English,,,1975,,,5500000
+120,One of Our Dinosaurs Is Missing,Robert Stevenson,89,United States,English,,,1975,,,
+121,The Best of Walt Disney's True-Life Adventures,James Algar,91,,English,,,,,,
+122,Ride a Wild Pony,Don Chaffey,112,United States,English,,,1976,,,
+123,"No Deposit, No Return",Norman Tokar,115,United States,English,,,1976,,,
+124,Treasure of Matecumbe,Vincent McEveety,95,United States,English,,,1976,,,21873000
+125,Gus,Vincent McEveety,91,United States,English,,,1976,,,10500000
+126,The Shaggy D.A.,Robert Stevenson,97,United States,English,,,1976,5000000,,36000000
+127,Freaky Friday,Gary Nelson,104,,English,,,,,,
+128,Escape from the Dark,Charles Jarrott,74,United States,English,,,1977,,,
+129,The Many Adventures of Winnie the Pooh,"John Lounsbery, Wolfgang Reitherman",77,United States,English,,,1977,7500000,,169000000
+130,The Rescuers,"Wolfgang Reitherman, John Lounsbery, Art Stevens",104,United States,English,,,1977,,,28000000
+131,Herbie Goes to Monte Carlo,Vincent McEveety,128,United States,English,,,1977,10000000,,
+132,Pete's Dragon,Don Chaffey,101,United States,English,,,1977,,,
+133,Candleshoe,Norman Tokar,94,United States,English,,,1978,,,16300000
+134,Return from Witch Mountain,John Hough,104,United States,English,,,1978,3500000,,
+135,The Cat from Outer Space,Norman Tokar,90,United States,English,,,1978,,,
+136,Hot Lead and Cold Feet,Robert Butler,100,United States,English,,,1979,,,
+137,The North Avenue Irregulars,Bruce Bilson,88,United States,English,,,1979,,,209311111
+138,The Apple Dumpling Gang Rides Again,Vincent McEveety,93,,English,,,Lond,5250000,,
+139,Unidentified Flying Oddball,Russ Mayberry,98,United States,English,,,1979,20000000,,35800000
+140,The Black Hole,Gary Nelson,112,United States,English,,,1980,4500000,,2900000
+141,Midnight Madness,Michael Nankin,84,,English,,,1980,9000000,,5000000
+142,The Watcher in the Woods,"John Hough, Vincent McEveety",97,United States,English,,,1980,,,18000000
+143,Herbie Goes Bananas,Vincent McEveety,97,United States,English,,,1980,46240,,11000000
+144,The Last Flight of Noah's Ark,Charles Jarrott,114,United States,English,,,1980,20000000,,60000000
+145,Popeye,Robert Altman,96,United States,English,,,Los ,,,16000000
+146,The Devil and Max Devlin,Steven Hilliard Stern,97,United States,English,,,1981,,,
+147,Amy,Vincent McEveety,109,United States,English,,,1981,18000000,,14100000
+148,Dragonslayer,Matthew Robbins,83,United States,English,,,1981,12000000,,63500000
+149,The Fox and the Hound,"Ted Berman, Richard Rich, Art Stevens",90,United States,English,,,1981,14000000,,
+150,Condorman,Charles Jarrott,107,,English,,,1982,10000000,,8000000
+151,Night Crossing,Delbert Mann,96,United States,English,,,1982,17000000,,50000000
+152,Tron,Steven Lisberger,103,United States,English,,,1982,5000000,,7400000
+153,Tex,Tim Hunter,91,United States,English,,,1983,8000000,,4304286
+154,Trenchcoat,Michael Tuchner,95,United States,English,,,1983,20000000,,8400000
+155,Something Wicked This Way Comes,Jack Clayton,105,United States,,,,limi,11000000,,27600000
+156,Never Cry Wolf,Carroll Ballard,113,,English,,,1985,28000000,,11100000
+157,Return to Oz,Walter Murch,80,United States,English,,,1985,44000000,,21300000
+158,The Black Cauldron,"Ted Berman, Richard Rich",101,United States,English,,,1985,8000000,,9700000
+159,The Journey of Natty Gann,Jeremy Kagan,90,,English,,,1985,7500000,,13000000
+160,One Magic Christmas,Phillip Borsos,74,United States,English,,,1986,14000000,,38700000
+161,The Great Mouse Detective,"John Musker, Ron Clements, Burny Mattinson",90,United States,English,,,1986,9000000,,18600000
+162,Flight of the Navigator,Randal Kleiser,89,United States,English,,,1987,,,22300000
+163,Benji the Hunted,Joe Camp,110,Australia,English,,,1988,,,13687027
+164,The Man from Snowy River II,Geoff Burrowes,74,United States,English,,,1988,31000000,,
+165,Oliver & Company,George Scribner,93,United States,English,,,1989,,,
+166,"Honey, I Shrunk the Kids",Joe Johnston,84,United States,English,,,1989,5000000,,8153677
+167,Cheetah,Jeff Blyth,83,United States,English,,,1989,,,235000000
+168,The Little Mermaid,"John Musker, Ron Clements",69,United States,English,,,1990,20000000,,18100000
+169,DuckTales the Movie: Treasure of the Lost Lamp,Bob Hathcock,77,United States,English,,,1990,,,47400000
+170,The Rescuers Down Under,Mike Gabriel,107,United States,English,,,1991,14000000,,41000000
+171,White Fang,Randal Kleiser,93,,,,,1990,,,17000000
+172,Shipwrecked,Nils Gaup,88,United States,English,,,1991,,,7300000
+173,Wild Hearts Can't Be Broken,Steve Miner,108,United States,English,,,1991,,,46700000
+174,The Rocketeer,Joe Johnston,84,United States,English,,,,,,
+175,Beauty and the Beast,"Gary Trousdale, Kirk Wise",121,United States,English,,,1992,15000000,,2800000
+176,Newsies,Kenny Ortega,89,United States,English,,,1992,32000000,,96000000
+177,"Honey, I Blew Up the Kid",Randal Kleiser,104,United States,English,,,1992,14000000,,50800000
+178,The Mighty Ducks,Stephen Herek,90,United States,English,,,1992,,,
+179,Aladdin,"John Musker, Ron Clements",86,United States,English,,,1992,12000000,,27200000
+180,The Muppet Christmas Carol,Brian Henson,84,United States,English,,,1993,,,57000000
+181,Homeward Bound: The Incredible Journey,Duwayne Dunham,108,United States,English,,,1993,,,12900000
+182,A Far Off Place,Mikael Salomon,107,United States,English,,,1993,11000000,,24100000
+183,The Adventures of Huck Finn,Stephen Sommers,96,United States,English,,,1993,,,
+184,Hocus Pocus,Kenny Ortega,98,United States,English,,,1993,17000000,,154900000
+185,Cool Runnings,Jon Turteltaub,105,,English,,,1993,30000000,,111000000
+186,The Three Musketeers,Stephen Herek,109,United States,English,,,1994,,,21000000
+187,Iron Will,Charles Haid,94,United States,English,,,1994,13000000,,39000000
+188,Blank Check,Rupert Wainwright,106,United States,English,,,1994,,,45600000
+189,D2: The Mighty Ducks,Sam Weisman,102,United States,English,,,1994,,,8900000
+190,White Fang 2: Myth of the White Wolf,Ken Olin,69,,English,,,1994,5000000,,
+191,The Return of Jafar,"Tad Stones, Alan Zaslove",88,United States,English,,,1994,,,
+192,The Lion King,"Roger Allers, Rob Minkoff",102,United States,English,,,1994,31000000,,50200000
+193,Angels in the Outfield,William Dear,102,,English,,,1994,,,3300000
+194,Squanto: A Warrior's Tale,Xavier Koller,97,United States,English,,,,22000000,,190300000
+195,The Santa Clause,John Pasquin,111,United States,English,,,1994,30000000,,70000000
+196,The Jungle Book,Stephen Sommers,92,,English,,,1995,,,
+197,Gargoyles the Movie: The Heroes Awaken,Saburo HashimotoTakamitsu KawamuraKazuo Terada,100,United States,English,,,1995,,,
+198,Heavyweights,Steven Brill,96,United States,English,,,1995,22000000,,40070995
+199,Man of the House,James Orr,96,United States,English,,,1995,32000000,,8200000
+200,Tall Tale,Jeremiah Chechik,78,United States,English,,,1995,18000000,,37600000
+201,A Goofy Movie,Kevin Lima,81,United States,English,,,1995,55000000,,346100000
+202,Pocahontas,"Mike Gabriel, Eric Goldberg",108,,,,,1995,,,246703461
+203,Operation Dumbo Drop,Simon Wincer,89,,English,,,1995,15000000,,13400000
+204,A Kid in King Arthur's Court,Michael Gottlieb,99,United States,English,,,1995,12000000,,17700000
+205,The Big Green,Holly Goldberg Sloan,89,United States,English,,,,,,
+206,Frank and Ollie,Theodore Thomas,81,United States,English,,,,,,
+207,Toy Story,John Lasseter,92,United States,English,,,1995,,,23900000
+208,Tom and Huck,Peter Hewitt,100,United States,English,,,1996,31000000,,34300000
+209,Muppet Treasure Island,Brian Henson,89,United States,English,,,1996,,,32700000
+210,Homeward Bound II: Lost in San Francisco,David R. Ellis,79,,English,,,1996,38000000,,37700000
+211,James and the Giant Peach,Henry Selick,91,United States,English,,,,,,
+212,The Hunchback of Notre Dame,"Gary Trousdale, Kirk Wise",81,,English,,,1996,,,
+213,Aladdin and the King of Thieves,Tad Stones,101,United States,English,,,1996,,,26465920
+214,First Kid,David Mickey Evans,104,United States,English,,,1996,,,22900000
+215,D3: The Mighty Ducks,Robert Lieberman,103,United States,English,,,1996,67000000,,320700000
+216,101 Dalmatians,Stephen Herek,86,United States,English,,,1997,,,18300000
+217,That Darn Cat,Bob Spiers,106,,English,,,1997,32000000,,59900000
+218,Jungle 2 Jungle,John Pasquin,74,United States,English,,,1997,7000000,,
+219,"Honey, We Shrunk Ourselves",Dean Cundey,93,United States,English,,,1997,,,
+220,Hercules,"John Musker, Ron Clements",92,United States,English,,,1997,55000000,,174400000
+221,George of the Jungle,Sam Weisman,98,,English,,,1997,3000000,,27800000
+222,Air Bud,Charles Martin Smith,76,,English,,,1997,,,
+223,Pooh's Grand Adventure: The Search for Christopher Robin,Karl Geurs,95,United States,English,,,1997,16000000,,15400000
+224,RocketMan,Stuart Gillard,72,,English,,,1997,,,
+225,Beauty and the Beast: The Enchanted Christmas,Andy Knight,93,United States,English,,,,80000000,,178000000
+226,Flubber,Les Mayfield,87,United States,English,,,1997,30000000,,28900000
+227,Mr. Magoo,Stanley Tong,70,United States,English,,,,,,
+228,Beauty and the Beast: Belle's Magical World,Dale Case,93,United States,English,,,1998,24000000,,4400000
+229,Meet the Deedles,Steve Boyum,87,United States,English,,,,,,
+230,Mulan,"Barry Cook, Tony Bancroft",128,United States,English,,,1998,15000000,,92100000
+231,The Parent Trap,Nancy Meyers,72,,English,,,1998,,,
+232,Pocahontas II: Journey to a New World,Bradley Raymond,77,United States,English,,,1998,,,
+233,The Jungle Book: Mowgli's Story,Nick Marck,82,United States,English,,,1998,,,
+234,The Lion King II: Simba's Pride,Darrell Rooney,86,United States,English,,,1998,30000000,,12200000
+235,I'll Be Home for Christmas,Arlene Sanford,95,United States,English,,,1998,,,
+236,A Bug's Life,John Lasseter,114,United States,English,,,1998,90000000,,50600000
+237,Mighty Joe Young,Ron Underwood,93,United States,English,,,1999,65000000,,36800000
+238,My Favorite Martian,Donald Petrie,83,United States,English,,,1999,5000000,,19400000
+239,Doug's 1st Movie,Maurice Joyce,83,,English,,,Tell,,,
+240,Endurance,Leslie Woodhead,88,United States,English,,,1999,130000000,,448200000
+241,Tarzan,"Kevin Lima, Chris Buck",78,United States,English,,,1999,,,134400000
+242,Inspector Gadget,David Kellogg,70,United States,English,,,1999,,,
+243,Hercules: Zero to Hero,Bob Kline,112,,English,,,,10000000,,6400000
+244,The Straight Story,David Lynch,66,United States,English,,,1999,,,
+245,Mickey's Once Upon a Christmas,Jun Falkenstein,92,United States,English,,,1999,,,
+246,Toy Story 2,John Lasseter,75,United States,English,,,,,,90900000
+247,Fantasia 2000,"Don Hahn, Pixote Hunt, Eric Goldberg, James Algar, Francis Glebas, Paul and Gaëtan Brizzi",77,,English,,,2000,15000000,,96200000
+248,The Tigger Movie,Jun Falkenstein,79,,English,,,2000,,,
+249,An Extremely Goofy Movie,Douglas McCarthy,72,United States,English,,,2000,4000000,,500000
+250,Whispers: An Elephant's Tale,Dereck Joubert,82,United States,English,,,,127500000,,349800000
+251,Dinosaur,Ralph Zondag,104,United States,English,,,2000,65000000,,110300000
+252,Disney's The Kid,Jon Turteltaub,70,United States,English,,,2000,,,
+253,Buzz Lightyear of Star Command: The Adventure Begins,Tad Stones,75,,English,,,2000,,,
+254,The Little Mermaid II: Return to the Sea,Jim Kammerud,113,United States,English,,,2000,30000000,,136800000
+255,Remember the Titans,Boaz Yakin,100,United States,English,,,2000,85000000,,183600000
+256,102 Dalmatians,Kevin Lima,78,United States,English,,,,,,169700000
+257,The Emperor's New Groove,Mark Dindal,83,United States,English,,,2001,23000000,,44500000
+258,Recess: School's Out,Chuck Sheetz,69,United States,English,,,2001,,,
+259,Lady and the Tramp II: Scamp's Adventure,Darrell Rooney,96,United States,English,,,2001,,,186100000
+260,Atlantis: The Lost Empire,"Gary Trousdale, Kirk Wise",115,United States,English,,,,26000000,,165300000
+261,The Princess Diaries,Garry Marshall,86,United States,English,,,2001,25000000,,18600000
+262,Max Keeble's Big Move,Tim Hill,92,United States,English,,,,,,
+263,"Monsters, Inc.",Pete Docter,65,,English,,,2001,,,
+264,Mickey's Magical Christmas: Snowed in at the House of Mouse,Roberts GannawayTony Craig,100,United States,English,,,2002,33000000,,115000000
+265,Snow Dogs,Brian Levant,73,,English,,,,20000000,,115100000
+266,Return to Never Land,Robin Budd,73,United States,English,,,2002,,,
+267,Cinderella II: Dreams Come True,John Kafka,68,United States,English,,,2002,,,
+268,The Hunchback of Notre Dame II,Bradley Raymond,128,United States,English,,,2002,22000000,,80700000
+269,The Rookie,John Lee Hancock,86,United States,English,,,,80000000,,273100000
+270,Lilo & Stitch,"Chris Sanders, Dean DeBlois",75,United States,English,,,2002,,,
+271,Tarzan & Jane,"Victor Cook, Steve Loter",88,United States,English,,,2002,35000000,,18000000
+272,The Country Bears,Peter Hastings,68,United States,English,,,2002,,,
+273,Mickey's House of Villains,Rick Calabash,96,United States,English,,,2002,,,19300000
+274,Tuck Everlasting,Jay Russell,104,United States,English,,,,65000000,,172900000
+275,The Santa Clause 2,Michael Lembeck,95,United States,English,,,,140000000,,109600000
+276,Treasure Planet,"John Musker, Ron Clements",74,United States,English,,,2003,,,
+277,101 Dalmatians II: Patch's London Adventure,Jim Kammerud,72,,English,,,2003,20000000,,135700000
+278,The Jungle Book 2,Steve Trenbirth,88,,English,,,2003,12000000,,
+279,Inspector Gadget 2,Alex Zamm,75,United States,English,,,,,,
+280,Piglet's Big Movie,Francis Glebas,61,United States,English,,,2003,13000000,,28700000
+281,Ghosts of the Abyss,James Cameron,117,United States,English,,,2003,17000000,,71400000
+282,Holes,Andrew Davis,94,United States,English,,,2003,17000000,,55500000
+283,The Lizzie McGuire Movie,Jim Fall,80,United States,English,,,2003,,,
+284,Atlantis: Milo's Return,"Victor Cook, Tad Stones",100,United States,English,,,,,,
+285,Finding Nemo,Andrew Stanton,143,United States,English,,,,140000000,,654300000
+286,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,96,United States,English,,,,26000000,,160800000
+287,Freaky Friday,Mark Waters,64,United States,English,,,2003,,,
+288,Stitch! The Movie,Tony CraigBobs Gannaway,87,,English,,,2003,,,
+289,George of the Jungle 2,David Grossman,85,United States,,,,,46000000,,250400000
+290,Brother Bear,"Aaron Blaise, Robert Walker",87,United States,English,,,2003,90000000,,182300000
+291,The Haunted Mansion,Rob Minkoff,50,United States,English,,,2003,,,9600000
+292,The Young Black Stallion,Simon Wincer,74,United States,English,,,2004,10000000,,6500000
+293,Teacher's Pet,Timothy Björklund,136,United States,English,,,2004,28000000,,64500000
+294,Miracle,Gavin OConnor,78,United States,English,,,2004,,,1465
+295,The Lion King 1%C2%BD,Bradley Raymond,85,United States,English,,,2004,15000000,,33300000
+296,Confessions of a Teenage Drama Queen,Sara Sugarman,65,United States,English,,,2004,,,
+297,Springtime with Roo,"Elliot M. Bour, Saul Andrew Blinkoff",76,United States,English,,,,110000000,,
+298,Home on the Range,Will Finn,40,,English,,,2004,,,1100000
+299,Sacred Planet,Jon Long2Hairul Salleh Askor,120,United States,English,,,2004,110000000,,72200000
+300,Around the World in 80 Days,Frank Coraci,84,United States,English,,,2004,,,314402
+301,America's Heart and Soul,Louis Schwartzberg,113,United States,English,,,2004,45000000,,134700000
+302,The Princess Diaries 2: Royal Engagement,Garry Marshall,67,United States,English,,,2004,,,
+303,"Mickey, Donald, Goofy: The Three Musketeers",Donovan Cook,115,United States,English,,,,,,
+304,The Incredibles,Brad Bird,67,United States,English,,,2004,,,
+305,Mickey's Twice Upon a Christmas,Matthew OCallaghan,131,United States,English,,,2004,100000000,,347500000
+306,National Treasure,Jon Turteltaub,100,United States,English,,,2005,,,9000000
+307,Aliens of the Deep,"James Cameron, James Cameron1Steven Quale1, Steven Quale, James Cameron1Steven Quale1",79,United States,English,,,2004,,,
+308,Mulan II,Darrell Rooney,68,United States,English,,,2005,,,
+309,Pooh's Heffalump Movie,Frank Nissen,95,United States,English,,,2005,56000000,,198600000
+310,The Pacifier,Adam Shankman,97,United States,English,,,2005,25000000,,27600000
+311,Ice Princess,Tim Fywell,72,United States,English,,,2005,,,
+312,Tarzan II,Brian Smith,100,United States,English,,,,50000000,,144100000
+313,Herbie: Fully Loaded,Angela Robinson,100,United States,English,,,2005,35000000,,86400000
+314,Sky High,Mike Mitchell,76,,,,,2005,35000000,,61700000
+315,Valiant,Gary Chapman,68,United States,English,,,2005,,,
+316,Lilo & Stitch 2: Stitch Has a Glitch,Tony Leondis,67,United States,English,,,2005,,,
+317,Pooh's Heffalump Halloween Movie,"Elliot M. Bour, Saul Andrew Blinkoff",120,United States,English,,,2005,25000000,,15400000
+318,The Greatest Game Ever Played,Bill Paxton,81,United States,English,,,,150000000,,314400000
+319,Chicken Little,Mark Dindal,143,,English,,,,180000000,,745000000
+320,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Andrew Adamson,72,United States,English,,,2005,,,
+321,Kronk's New Groove,"Elliot M. Bour, Saul Andrew Blinkoff",118,United States,English,,,2006,30000000,,42900000
+322,Glory Road,James Gartner,40,United States,English,,,2006,1000000,,11000000
+323,Roving Mars,George Butler,72,,English,,,2006,,,35000000
+324,Bambi II,Brian Pimental,120,United States,English,,,2006,40000000,,120500000
+325,Eight Below,Frank Marshall,99,United States,English,,,2006,50000000,,87100000
+326,The Shaggy Dog,Brian Robbins,82,,English,,,2006,80000000,,102300000
+327,The Wild,Steve Spaz Williams,117,United States,English,,,,,,
+328,Cars,John Lasseter,72,United States,English,,,2006,,,
+329,Leroy & Stitch,Tony CraigBobs Gannaway,150,United States,English,,,,225000000,,1066000
+330,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,104,United States,English,,,2006,30000000,,58500000
+331,Invincible,Ericson Core,73,United States,English,,,2006,,,
+332,Brother Bear 2,Ben Gluck,76,United States,English,,,,24000000,,101200000
+333,The Nightmare Before Christmas,Henry Selick,92,United States,English,,,2006,12000000,,
+334,The Santa Clause 3: The Escape Clause,Michael Lembeck,69,,English,,,2006,,,
+335,The Fox and the Hound 2,Jim Kammerud,70,United States,English,,,2007,8000000,,
+336,Cinderella III: A Twist in Time,Frank Nissen,95,United States,English,,,2007,17000000,,137600000
+337,Bridge to Terabithia,Gábor Csupó,169,United States,English,,,,,,
+338,Meet the Robinsons,Stephen Anderson,111,United States,English,,,,,,
+339,Pirates of the Caribbean: At World's End,Gore Verbinski,85,China,,,,2007,,,3000000
+340,Ratatouille,Brad Bird,82,United States,English,,,2007,25000000,,65300000
+341,The Secret of the Magic Gourd,John ChuFrankie Chung,87,,English,,,2007,,,
+342,Underdog,Frederik Du Chau,110,United States,English,,,,22000000,,146600000
+343,The Pixar Story,Leslie Iwerks,107,United States,English,,,,85000000,,340500000
+344,The Game Plan,Andy Fickman,124,United States,English,,,2007,130000000,,459200000
+345,Enchanted,Kevin Lima,74,United States,English,,,,7000000,,70600000
+346,National Treasure: Book of Secrets,Jon Turteltaub,82,United States,English,,,2008,25000000,,51500000
+347,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Bruce Hendricks,150,,English,,,,225000000,,419600000
+348,College Road Trip,Roger Kumble,98,United States,English,,,,,,
+349,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,77,,English,,,2008,,,
+350,WALL-E,Andrew Stanton,91,United States,,,,2008,20000000,,149300000
+351,The Little Mermaid: Ariel's Beginning,Peggy Holmes,100,United States,English,,,2008,,,2757761
+352,Beverly Hills Chihuahua,Raja Gosnell,112,United States,English,,,2008,11000000,,252900000
+353,Morning Light,Mark Monroe,93,,,,,2008,,,2000000
+354,High School Musical 3: Senior Year,Kenny Ortega,78,United States,English,,,2008,50000000,,9200000
+355,Roadside Romeo,Jugal Hansraj,96,United States,English,,,,150000000,,310000000
+356,Tinker Bell,Bradley Raymond,99,United States,English,,,2008,80000000,,212900000
+357,Bolt,"Chris Williams, Byron Howard",98,United States,English,,,2009,50000000,,106400000
+358,Bedtime Stories,Adam Shankman,97,United States,English,,,2009,,,
+359,Jonas Brothers: The 3D Concert Experience,Bruce Hendricks,99,,English,,,2007,47000000,,109000000
+360,Race to Witch Mountain,Andy Fickman,101,United States,English,,,2009,,,555131
+361,Hannah Montana: The Movie,"Peter Chelsom, Peter Chelsom1",96,United States,English,,,,175000000,,735100000
+362,Earth,"Alastair Fothergill, Mark Linfield",89,Germany,German,,,,,,
+363,The Boys: The Sherman Brothers' Story,Gregory V. ShermanJeffrey C. Sherman,90,United States,English,,,2009,150000000,,292800000
+364,Up,Pete Docter,107,United States,English,,,2009,,,
+365,Lilly the Witch: The Dragon and the Magic Book,Stefan Ruzowitzky,82,United States,English,,,2009,,,8600000
+366,G-Force,Hoyt H. Yeatman Jr.,101,Russia,Russian,,,Octo,,,11300000
+367,Walt & El Grupo,Theodore Thomas,96,United States,English,,,,,,325300000
+368,Tinker Bell and the Lost Treasure,Klay Hall,88,United States,English,,,2009,35000000,,96800000
+369,The Book of Masters,Vadim Sokolovsky,97,United States,English,,,,105000000,,271000000
+370,A Christmas Carol,Robert Zemeckis,108,United States,English,,,,,,1025000
+371,Old Dogs,Walt Becker,85,United States,English,,,,,,84918
+372,The Princess and the Frog,"John Musker, Ron Clements",104,France,French,,,,80000000,,82700000
+373,Alice in Wonderland,Tim Burton,116,United States,English,,,2010,,,336400000
+374,Waking Sleeping Beauty,Don Hahn,103,United States,English,,,,,,
+375,Oceans,Jacques Perrin,109,United States,English,,,2010,150000000,,215300000
+376,Prince of Persia: The Sands of Time,Mike Newell,74,,English,,,,,,
+377,Toy Story 3,Lee Unkrich,79,United States,English,,,2010,,,108727523
+378,The Sorcerer's Apprentice,Jon Turteltaub,123,United States,English,,,,35000000,,60300000
+379,The Crimson Wing: Mystery of the Flamingos,Matthew AeberhardLeander Ward,108,India,Hindi,,,2010,,,
+380,Tinker Bell and the Great Fairy Rescue,Bradley Raymond,100,United States,English,,,,260000000,,592500000
+381,Secretariat,Randall Wallace,125,United States,English,,,2010,,,400100000
+382,Do Dooni Chaar,Habib Faisal,84,United States,English,,,2011,,,29600000
+383,Tangled,"Nathan Greno, Byron Howard",90,Germany,German,,,,,,
+384,Tron: Legacy,Joseph Kosinski,88,United States,English,,,,150000000,,39200000
+385,Anaganaga O Dheerudu,Prakash Kovelamudi,109,India,Hindi,,,2011,,,
+386,Beverly Hills Chihuahua 2,Alex Zamm,89,,,,,2011,5000000,,30900000
+387,Lilly the Witch: The Journey to Mandolan,Harald Sicheritz,104,United States,English,,,2011,8000000,,10700000
+388,Mars Needs Moms,Simon Wells,137,United States,English,,,,410600000,,1046000
+389,Zokkomon,Satyajit Bhatkal,106,United States,English,,,2011,,,559800000
+390,African Cats,"Keith Scholey, Alastair Fothergill",63,United States,English,,,2011,30000000,,50100000
+391,Prom,Joe Nussbaum,88,,English,,,2011,,,
+392,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,103,United States,English,,,2011,,,165200000
+393,Cars 2,John Lasseter,93,United States,English,,,2012,,,
+394,Winnie the Pooh,"Stephen Anderson, Don Hall",132,United States,English,,,,,,284100000
+395,Spooky Buddies,Robert Vince,77,,,,,2012,5000000,,34800000
+396,The Muppets,James Bobin,96,India,Hindi,,,2012,,,
+397,Treasure Buddies,Robert Vince,93,United States,English,,,,185000000,,540400000
+398,John Carter,Andrew Stanton,100,United States,English,,,2012,25000000,,56000000
+399,Chimpanzee,"Alastair Fothergill, Mark Linfield",89,United States,English,,,2012,,,12200000
+400,Arjun: The Warrior Prince,Arnab Chaudhuri1,87,United States,English,,,,39000000,,81500000
+401,Brave,"Mark Andrews, Brenda Chapman",75,United States,English,,,2012,,,67500000
+402,The Odd Life of Timothy Green,Peter Hedges,101,United States,English,,,2012,,,496500000
+403,Beverly Hills Chihuahua 3: Viva la Fiesta!,Lev L. Spiro,130,United States,English,,,,215000000,,493300000
+404,Frankenweenie,Tim Burton,77,,,,,2011,,,
+405,Secret of the Wings,Peggy Holmes,104,United States,English,,,,,,
+406,Wreck-It Ralph,Rich Moore,149,United States,English,,,,,,260500000
+407,Oz the Great and Powerful,Sam Raimi,92,United States,English,,,,50000000,,240200000
+408,Wings of Life,Louis Schwartzberg,81,United States,English,,,2013,,,
+409,Monsters University,Dan Scanlon,102,United States,English,,,2013,150000000,,1280000
+410,The Lone Ranger,Gore Verbinski,125,,English,,,,35000000,,117900000
+411,Planes,Klay Hall,107,United States,English,,,,50000000,,80400000
+412,Super Buddies,Robert Vince,78,United States,English,,,2014,,,63900000
+413,Frozen,"Chris Buck, Jennifer Lee",77,United States,English,,,2014,5000000,,21300000
+414,Saving Mr. Banks,John Lee Hancock,124,United States,"English,Hindi",,,,25000000,,40200000
+415,Muppets Most Wanted,James Bobin,97,United States,English,,,,,,758500000
+416,The Pirate Fairy,Peggy Holmes,127,India,Hindi,,,2014,,,
+417,Bears,"Alastair Fothergill, Keith Scholey",81,United States,English,,,,28000000,,100600000
+418,Million Dollar Arm,Craig Gillespie,102,United States,English,,,,,,
+419,Maleficent,Robert Stromberg,124,United States,English,,,,50000000,,213100000
+420,Planes: Fire & Rescue,Bobs Gannaway,129,United States,English,,,,17000000,,45700000
+421,Khoobsurat,"Shashanka Ghosh, Shashanka Ghosh1",76,United States,English,,,2014,,,31200000
+422,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Miguel Arteta,106,,English,,,,90000000,,540500000
+423,Big Hero 6,"Don Hall, Chris Williams",82,United States,English,,,2015,,,17100000
+424,Into the Woods,Rob Marshall,130,United States,English,,,,,,209000000
+425,"McFarland, USA",Niki Caro,95,United States,English,,,,,,
+426,Tinker Bell and the Legend of the NeverBeast,Steve Loter,154,India,Hindi,,,2015,,,
+427,Cinderella,Kenneth Branagh,94,United States,English,,,,,,332200000
+428,Monkey Kingdom,"Mark Linfield, Alastair Fothergill",117,United States,English,,,,,,52100000
+429,Tomorrowland,Brad Bird,108,United States,English,,,2016,,,
+430,Inside Out,Pete Docter,106,United States,English,,,,,,966600000
+431,ABCD 2,Remo DSouza,99,,Spanish,,,2016,,,17000000
+432,The Good Dinosaur,Peter Sohn,113,United States,English,,,,170000000,,299500000
+433,The Finest Hours,Craig Gillespie,97,United States,English,,,,,,
+434,Zootopia,"Byron Howard, Rich Moore",118,United States,English,,,,140000000,,195200000
+435,The Jungle Book,Jon Favreau,103,United States,English,,,,65000000,,143700000
+436,Tini: The Movie,Juan Pablo Buscarini,124,United States,,,,,,,
+437,Alice Through the Looking Glass,James Bobin,107,United States,English,,,,,,682600000
+438,Finding Dory,Andrew Stanton,161,India,Hindia,,,2016,,,
+439,The BFG,Steven Spielberg,86,France,French,,,2005,8000000,,127400000
+440,Pete's Dragon,David Lowery,129,United States,English,,,,,,
+441,Queen of Katwe,Mira Nair,76,,,,,2016,,,25100000
+442,Moana,"John Musker, Ron Clements",129,United States,English,,,,,,795900000
+443,Dangal,Nitesh Tiwari,102,United States,English,,,,175000000,,383900000
+444,March of the Penguins#Sequel,Luc Jacquet,162,India,Hindi,,,2017,,,
+445,Beauty and the Beast,Bill Condon,114,Russia,,,,,,,30500000
+446,Born in China,Lu Chuan,105,United States,English,,,,,,
+447,Pirates of the Caribbean: Dead Men Tell No Tales,"Joachim Rønning, Espen Sandberg",110,United States,English,,,,,,133200000
+448,Cars 3,Brian Fee,118,United States,English,,,,,,
+449,Ghost of the Mountains,Ben Wallis,104,United States,English,,,,,,197700000
+450,Jagga Jasoos,Anurag Basu,99,United States,English,,,,,,174000000
+451,Last Knight,Dmitriy Dyachenko,112,United States,English,,,,,,
+452,Coco,Lee Unkrich,131,United States,English,,,,130000000,,349500000
+453,A Wrinkle in Time,Ava DuVernay,112,United States,English,,,,170000000,,353300000
+454,Incredibles 2,Brad Bird,76,United States,English,,,2019,,,7700000
+455,Christopher Robin,Marc Forster,128,United States,English,,,,,,
+456,The Nutcracker and the Four Realms,"Lasse Hallström, Joe Johnston",100,United States,English,,,,200000000,,1073000
+457,Ralph Breaks the Internet,"Rich Moore, Phil Johnston",118,United States,English,,,,,,
+458,Mary Poppins Returns,Rob Marshall,119,United States,English,,,2019,186000000,,491700000
+459,Dumbo,Tim Burton,104,United States,English,,,2019,60000000,,
+460,Penguins,Alastair Fothergill,100,United States,English,,,,,,
+461,Aladdin,Guy Ritchie,103,United States,English,,,,,,
+462,Toy Story 4,"Josh Cooley, Josh Cooleya",114,United States,English,,,2019,40000000,,
+463,The Lion King,Jon Favreau,99,United States,English,,,,42000000,,
+464,Maleficent: Mistress of Evil,Joachim Rønning,102,United States,English,,,,,,142000000
+465,Lady and the Tramp,Charlie Bean,107,United States,English,,,2020,,,
+466,Noelle,Marc Lawrence,78,United States,English,,,2018,,,
+467,Frozen II,"Chris Buck, Jennifer Lee",86,United States,English,,,2020,,,
+468,Togo,Ericson Core,95,United States,English,,,2020,,,
+469,Timmy Failure: Mistakes Were Made,Tom McCarthy,160,United States,English,,,2020,12500000,,
+470,Onward,Dan Scanlon,85,United States,English,,,2020,,,
+471,Stargirl,Julia Hart,100,United States,English,,,2020,24000000,,
+472,Dolphin Reef,"Alastair Fothergill, Keith Scholey",95,United States,English,,,2020,,,
+473,Elephant,Mark Linfield,115,United States,English,,,,200000000,,69900000
+474,Artemis Fowl,Kenneth Branagh,110,United States,English,,,2020,,,
+475,Hamilton,Thomas Kail,122,United States,English,,,2020,26000000,,
+476,Black Is King,"Beyoncé, Emmanuel Adjei, Blitz Bazawule, Jenn Nkiru, Ibra Ake, Jake Nava",101,United States,English,,,,150000000,,121000000
+477,Magic Camp,Mark Waters,121,Russia,Russian,,,,,,
+478,The One and Only Ivan,Thea Sharrock,95,United States,English,,,2021,,,
+479,Mulan,Niki Caro,107,United States,English,,,2021,,,
+480,Godmothered,Sharon Maguire,134,United States,English,,,,,,233500000
+481,Safety,Reginald Hudlin,95,United States,English,,,,,,49800000
+482,Soul,Pete Docter,127,United States,English,,,,200000000,,220900000
+483,The Last Warrior: Root of Evil,Dmitriy Dyachenko,102,United States,,,,,,,
+484,Flora & Ulysses,Lena Khan,58,,English,,,2021,,,
+485,Raya and the Last Dragon,"Don Hall, Carlos López Estrada",108,Russia,Russian,,,2021,,,
+486,Cruella,Craig Gillespie,82,,English,,,2022,,,
+487,Luca,Enrico Casarosa,100,United States,English,,,,175000000,,20100000
+488,Jungle Cruise,Jaume Collet-Serra,107,United States,English,,,,,,
+489,Encanto,"Jared Bush, Byron Howard",91,United States,English,,,,36000000,,
+490,Diary of a Wimpy Kid,Swinton Scott,84,United States,English,,,2022,,,
+491,The Last Warrior: A Messenger of Darkness,Dmitry Dyachenko,97,United States,English,,,,,,6231905
+492,The Ice Age Adventures of Buck Wild,John C. Donkin,105,United States,English,,,,,,
+493,Turning Red,Domee Shi,105,United States,English,,,,200000000,,226400000
+494,Cheaper by the Dozen,Gail Lerner,111,,,,,2022,,,
+495,Better Nate Than Ever,Tim Federle,105,United States,English,,,2022,150000000,,
+496,Polar Bear,Alastair Fothergill,103,United States,English,,,2022,40000000,,
+497,Chip 'n Dale: Rescue Rangers,Akiva Schaffer,119,United States,English,,,,,,
+498,Hollywood Stargirl,Julia Hart,102,United States,English,,,,,,73600000
+499,Lightyear,Angus MacLane,75,,English,,,,,,
+500,Rise,Akin Omotoso,77,,English,,,2022,,,
+501,Pinocchio,Robert Zemeckis,109,United States,,,,2023,,,
+502,Hocus Pocus 2,Anne Fletcher,109,United States,English,,,2023,,,
+503,Disenchanted,Adam Shankman,105,United States,English,,,2023,,,
+504,Strange World,Don Hall,135,United States,English,,,,,,
+505,Diary of a Wimpy Kid: Rodrick Rules,Luke Cormican,101,United States,English,,,,200000000,,496200000
+506,Night at the Museum: Kahmunrah Rises Again,Matt Danner,101,United States,English,,,2023,,,
+507,Chang Can Dunk,Jingyi Shao,154,United States,English,,,,,,
+508,Peter Pan & Wendy,David Lowery,123,United States,English,,,,150000000,,117500000
+509,Crater,Kyle Patrick Alvarez,90,United States,English,,,2023,,,
+510,The Little Mermaid,Rob Marshall,95,United States,English,,,,,,127500000
+511,Elemental,Peter Sohn,62,,English,,,,0,,
+512,World's Best,Roshan Sethi,102,United States,English,,,,0,,
+513,Indiana Jones and the Dial of Destiny,James Mangold,,,,,,0,0,0,0
+514,Haunted Mansion,Justin Simien,,,,,,0,0,0,0
+515,Dashing Through the Snow,Tim Story,,,,,,0,0,0,0
+516,Wish,"Chris Buck, Fawn Veerasunthorn",,,,,,0,0,0,0
+517,Diary of a Wimpy Kid Christmas: Cabin Fever,Luke Cormican,,,,,,0,0,0,0
+518,Inside Out 2,Kelsey Mann,,,,,,0,0,0,0
+519,Mufasa: The Lion King,Barry Jenkins,,,,,,0,0,0,0
+520,Snow White,Marc Webb,,,,,,0,0,0,0
+521,Elio,Adrian Molina,,,,,,0,0,0,0
+522,Out of My Mind,Amber Sealey,,,,,,0,0,0,0
+523,Young Woman and the Sea,Joachim Rønning,,,,,,0,0,0,0
+524,Lilo & Stitch,Dean Fleischer Camp,,,,,,0,0,0,0
+525,Tron: Ares,Joachim Rønning,,,,,,0,0,0,0
