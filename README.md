@@ -32,10 +32,19 @@ This project analyzes a Disney movies dataset using Microsoft Excel. The dataset
 - Movies released in later years generated higher total box office revenue
 - United States contributed the highest total profit in the dataset
 - Higher budget did not always guarantee higher profit
-- 40 movies in the dataset resulted in a loss
+- A total of 40 movies in the dataset resulted in a loss
+
+## Business Understanding
+
+The objective of this project was to analyze movie performance based on budget and box office revenue, and identify trends across years and countries.
 
 ## Files
-- disney_analysis (https://www.kaggle.com/datasets/adityamaurya123321/disney-picturesuncleaned)
+- Disney_movies.csv - Cleaned dataset used for analysis
+- Disney_movies_uncleaned.csv - Raw dataset before cleaning  
+-
+## Dataset Source
+Dataset sourced from Kaggle:
+https://www.kaggle.com/datasets/adityamaurya123321/disney-picturesuncleaned
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -43,6 +52,15 @@ This project analyzes a Disney movies dataset using Microsoft Excel. The dataset
 - Pivot Tables
 - Excel Formulas
 - Data Visualization
+
+## Project Snapshot
+
+### Year vs Box Office
+![Year vs Box Office](pivot_year_boxoffice.jpeg)
+
+### Country vs Profit
+![Country vs Profit](pivot_country_profit.jpeg)
+
 
 - <img width="1332" height="653" alt="image" src="https://github.com/user-attachments/assets/3df73760-c92f-427b-93c2-d10d511d86fe" />
 
